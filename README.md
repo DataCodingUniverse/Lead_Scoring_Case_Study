@@ -1,6 +1,6 @@
 # Lead_Scoring_Case_Study
 
-1. Lead_Scoring_Case_Study.ipynb - Includes complate Logistic Regression model building steps python code.
+1. Lead_Scoring_Case_Study.ipynb - Includes complete Logistic Regression model building steps python code.
 
 2. Assignment_Subjective_Questions.pdf - Contains answer all the questions asked by the company in the word document.
 
